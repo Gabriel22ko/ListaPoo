@@ -24,8 +24,8 @@ Braking for a specified time interval.
 Obtaining the current speed of the vehicle.
 Obtaining the current fuel volume.
 
-##Exercise 3: System for a Vehicle Dealership
-###Description
+## Exercise 3: System for a Vehicle Dealership
+### Description
 In this exercise, a system for a vehicle dealership was developed, covering various types of vehicles (hatchback, sedan, pickup truck, SUV) and motorcycles. The system records transactions involving the purchase and sale of vehicles, including sellers and customers. The program features a terminal-based interface with numbered menus for accessing functionalities.
 
 ### Features
