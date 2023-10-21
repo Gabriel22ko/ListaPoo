@@ -1,45 +1,35 @@
-# Projeto de Programação Orientada a Objetos em Java
+# Object-Oriented Programming Project in Java
+This academic project was developed as part of the Object-Oriented Programming course to enhance the understanding of fundamental object-oriented programming concepts and apply these concepts in practice using the Java programming language. The project is divided into three exercises, each addressing a specific aspect of object-oriented programming.
 
-Este projeto acadêmico foi desenvolvido como parte da disciplina de Programação Orientada a Objetos, com o objetivo de aprimorar o entendimento dos conceitos fundamentais da programação orientada a objetos e aplicar esses conceitos na prática utilizando a linguagem Java. O projeto está dividido em três exercícios, cada um abordando um aspecto específico da programação orientada a objetos.
+## Exercise 1: Class for Representing a Circle
+### Description
+In this exercise, a class was created to represent a geometric circle. The class has attributes for the radius and the coordinates of the circle's center, as well as methods for constructing objects, increasing the radius, setting the center, calculating the area, and the circumference length.
 
-## Exercício 1: Classe para Representar um Círculo
+### Features
+Construction of Circle objects by specifying the radius and coordinates.
+Increasing the circle's radius by a defined percentage.
+Setting the coordinates of the circle's center.
+Calculating the area of the circle.
+Calculating the circumference length.
 
-### Descrição
+## Exercise 2: Class for Representing a Conventional Automobile
+### Description
+In this exercise, a class was implemented to model an automobile. The class has attributes such as mileage, fuel volume, tank capacity, maximum and current speeds, average acceleration, and average fuel consumption. Methods were developed to refuel the vehicle, accelerate, brake, obtain the current speed, and check the current fuel volume.
 
-Neste exercício, foi criada a classe para representar um círculo geométrico. A classe possui atributos para o raio e as coordenadas do centro do círculo, e métodos para construir objetos, aumentar o raio, definir o centro, calcular a área e o comprimento da circunferência.
+### Features
+Creation of Car objects with mandatory attributes.
+Refueling the vehicle with volume calculation and fuel consumption.
+Acceleration for a specified time interval.
+Braking for a specified time interval.
+Obtaining the current speed of the vehicle.
+Obtaining the current fuel volume.
 
-### Funcionalidades
+##Exercise 3: System for a Vehicle Dealership
+###Description
+In this exercise, a system for a vehicle dealership was developed, covering various types of vehicles (hatchback, sedan, pickup truck, SUV) and motorcycles. The system records transactions involving the purchase and sale of vehicles, including sellers and customers. The program features a terminal-based interface with numbered menus for accessing functionalities.
 
-- Construção de objetos `Circulo` informando raio e coordenadas.
-- Aumento do raio do círculo em um percentual definido.
-- Definição das coordenadas do centro do círculo.
-- Cálculo da área do círculo.
-- Cálculo do comprimento da circunferência.
-
-## Exercício 2: Classe para Representar um Automóvel Convencional
-
-### Descrição
-
-Neste exercício, foi implementada a classe para modelar um automóvel. A classe possui atributos como quilometragem, volume de combustível, capacidade do tanque, velocidades máxima e atual, aceleração média e consumo médio. Foram desenvolvidos métodos para abastecer o veículo, acelerar, frear, obter velocidade atual e volume de combustível.
-
-### Funcionalidades
-
-- Criação de objetos `Carro` com atributos obrigatórios.
-- Abastecimento do veículo com cálculo de volume e gasto de combustível.
-- Aceleração por um intervalo de tempo.
-- Freagem por um intervalo de tempo.
-- Obtenção da velocidade atual do veículo.
-- Obtenção do volume atual de combustível.
-
-## Exercício 3: Sistema para uma Revenda de Veículos
-
-### Descrição
-
-Neste exercício, foi desenvolvido um sistema para uma revenda de veículos, abrangendo carros (hatch, sedan, caminhonete, SUV) e motos. O sistema registra transações de compra e venda, envolvendo vendedores e clientes. O programa possui uma interface baseada em terminal com menus para acesso às funcionalidades.
-
-### Funcionalidades
-
-- Registro de transações de compra e venda de veículos.
-- Gerenciamento de tipos de veículos (carros e motos).
-- Registro de informações de vendedores e clientes.
-- Interface de usuário em terminal com menus enumerados.
+### Features
+Recording transactions for buying and selling vehicles.
+Management of vehicle types (cars and motorcycles).
+Recording information about sellers and customers.
+User interface in the terminal with enumerated menus.
